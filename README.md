@@ -209,8 +209,8 @@ Refresh the page and observe the results.
 Check the Nexus GUI to verify the created artifact in the repository.
 <img width="960" alt="jenkis gui" src="https://github.com/fouzia0/Jenkins_SonarQube_Nexus_CI-project/assets/146019530/a02ec88e-c2c3-4a69-a3ca-48672a9b6bab">
 
-<img width="494" alt="BBB" src="https://github.com/fouzia0/Jenkins_SonarQube_Nexus_CI-project/assets/146019530/514de9b7-fbb8-4fc8-b807-ef7c9442d18c">
+<img width="900" alt="BBB" src="https://github.com/fouzia0/Jenkins_SonarQube_Nexus_CI-project/assets/146019530/514de9b7-fbb8-4fc8-b807-ef7c9442d18c">
 
-<img width="655" alt="AAA" src="https://github.com/fouzia0/Jenkins_SonarQube_Nexus_CI-project/assets/146019530/91903c2c-ad12-4af6-9648-28e0203df8cf">
+<img width="900" alt="AAA" src="https://github.com/fouzia0/Jenkins_SonarQube_Nexus_CI-project/assets/146019530/91903c2c-ad12-4af6-9648-28e0203df8cf">
 
 

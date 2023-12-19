@@ -1,6 +1,6 @@
 # Jenkins_SonarQube_Nexus_CI-project
 
-We're setting up a Continuous Integration/Continuous Deployment (CI/CD) project.
+Setting up a Continuous Integration/Continuous Deployment (CI/CD) project.
 The configuration involves Jenkins, Nexus, and SonarQube servers.
 Specific prerequisites are required for each server.
 The infrastructure includes a Jenkins server (t2 small - Ubuntu).
